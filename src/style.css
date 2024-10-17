@@ -8,7 +8,7 @@ header {
   padding: 0 0 30px 0;
 }
 .weather-app-container {
-  background: rgb(216, 124, 216);
+  background: rgb(224, 136, 224);
   max-width: 600px;
   margin: 45px auto;
   padding: 30px;
@@ -71,8 +71,8 @@ strong {
 }
 
 .temperature-icon {
-    width: 88px;
-    height: 88px;
+  width: 88px;
+  height: 88px;
 }
 
 .temperature-value {
